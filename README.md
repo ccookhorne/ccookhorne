@@ -19,7 +19,7 @@ My journey in various different fields has led me to computer science and to dev
 | Network Traffic Monitoring and Attack Detection | "Coming Soon"            |
 | Security Audit                                |  <a href="https://docs.google.com/document/d/1xOzyQlXLb0aN1TxZT74ORzvUoVnRThBbqSj3PJdKYaY/edit?usp=sharing"> Security Audit Lab <a/> |
 | Cyber Incident Report                         |  <a href="https://docs.google.com/document/d/1YFENsZdkMdx2qvb1FfB2ITGaMTF8UDHCKDH-Oj0WoJs/edit?usp=sharing&resourcekey=0-JAhI-Z3oiXQ1YCX71rpnOQ"> Cyber Incident Lab <a/> | 
-| Incident Handler’s Journal                    |  "Coming Soon"            |
+| Incident Handler’s Journal                    |  <a href="https://docs.google.com/document/d/1fSuHRe-0ViGLAvGcMFt_VQCRJh0E06vo4UIONMYqEJ8/edit?usp=sharing&resourcekey=0--b3esh7XQnC3dac43BhlSA"> Incident Handler's Journal <a/>  |
 | TryHackMe Journal                             |  <a href="https://docs.google.com/document/d/1-U7GcbK7Y0u3pXF_kKb6_PtnwSp4162fftcuuOX4mtY/edit?usp=sharing"> TryHackMe Journal <a/> |            
 | Vulnerable System Analysis                    |  <a href="https://docs.google.com/document/d/1faEXbq2U-HzQPQkE3kt2rXNZyR5qUEdj6dfY5ZMhEgM/edit?usp=sharing"> Vulnerability System Analysis Project <a/> |          |
 | SQL Query                                     |  <a href="https://docs.google.com/document/d/1gKeaSIkg6nv5l9e9R5xvjtS4VVgNn24-qwMJSUJ6k2Q/edit?usp=sharing"> SQL Query Project <a/> |           
